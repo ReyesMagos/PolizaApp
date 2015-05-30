@@ -10,21 +10,21 @@
             "policyNumber": "02",
             "productName": "Riesgos Laborales",
             "validityStartingDate": "2015-01-18",
-            "validityEndingDate": "18/07/2015",
+            "validityEndingDate": "18-07-2015",
             "insuredValue": "644350 "
         },
         {
             "policyNumber": "03",
             "productName": "Seguro Exequial",
             "validityStartingDate": "2015-01-18",
-            "validityEndingDate": "18/07/2015",
+            "validityEndingDate": "18-07-2015",
             "insuredValue": "3000000"
         },
         {
             "policyNumber": "04",
             "productName": "Seguro Pensional",
             "validityStartingDate": "2015-01-18",
-            "validityEndingDate": "18/07/2015",
+            "validityEndingDate": "18-07-2015",
             "insuredValue": "644350"
         },
         {
