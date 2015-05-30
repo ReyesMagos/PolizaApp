@@ -1,0 +1,37 @@
+ [
+        {
+            "policyNumber": "01",
+            "productName": "SOAT",
+            "validityStartingDate": "2015-02-05",
+            "validityEndingDate": "2015-08-05",
+            "insuredValue": "$483252500"
+        },
+        {
+            "policyNumber": "02",
+            "productName": "Riesgos Laborales",
+            "validityStartingDate": "2015-01-18",
+            "validityEndingDate": "18/07/2015",
+            "insuredValue": "$644350 mensuales"
+        },
+        {
+            "policyNumber": "03",
+            "productName": "Seguro Exequial",
+            "validityStartingDate": "2015-01-18",
+            "validityEndingDate": "18/07/2015",
+            "insuredValue": "$3000000"
+        },
+        {
+            "policyNumber": "04",
+            "productName": "Seguro Pensional",
+            "validityStartingDate": "2015-01-18",
+            "validityEndingDate": "18/07/2015",
+            "insuredValue": "$644350 mensuales"
+        },
+        {
+            "policyNumber": "05",
+            "productName": "Seguro de Vida",
+            "validityStartingDate": "2015-01-24",
+            "validityEndingDate": "2015-12-24",
+            "insuredValue": "$1200000 mensuales"
+        }
+]
